@@ -1,0 +1,661 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		F80D104D261DF46E00018185 /* MembershipPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = F80D104C261DF46E00018185 /* MembershipPage.swift */; };
+		F838CB41260A086F00C3F736 /* ListPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = F838CB40260A086F00C3F736 /* ListPage.swift */; };
+		F838CB8B260B6E9700C3F736 /* WebsitePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = F838CB8A260B6E9700C3F736 /* WebsitePage.swift */; };
+		F838CB90260B717F00C3F736 /* SpecialityClinicsPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = F838CB8F260B717F00C3F736 /* SpecialityClinicsPage.swift */; };
+		F84AA79A260CC79B000DB96C /* SuggestionsAndComplains_Page.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84AA799260CC79B000DB96C /* SuggestionsAndComplains_Page.swift */; };
+		F854069D2621C14700A987E2 /* FirstPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = F854069C2621C14700A987E2 /* FirstPage.swift */; };
+		F8540D7A26212B9B002E265D /* LocationPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8540D7926212B9B002E265D /* LocationPage.swift */; };
+		F8711DB72608066D00F95065 /* Verification_page.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8711DB62608066D00F95065 /* Verification_page.swift */; };
+		F871F8D726113A88002274F4 /* test.swift in Sources */ = {isa = PBXBuildFile; fileRef = F871F8D626113A88002274F4 /* test.swift */; };
+		F87F868D2601FAAE007B82D4 /* Wahat_ALShifaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F87F868C2601FAAE007B82D4 /* Wahat_ALShifaApp.swift */; };
+		F87F868F2601FAAE007B82D4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F87F868E2601FAAE007B82D4 /* ContentView.swift */; };
+		F87F86912601FAB1007B82D4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F87F86902601FAB1007B82D4 /* Assets.xcassets */; };
+		F87F86942601FAB1007B82D4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F87F86932601FAB1007B82D4 /* Preview Assets.xcassets */; };
+		F87F869F2601FAB1007B82D4 /* Wahat_ALShifaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F87F869E2601FAB1007B82D4 /* Wahat_ALShifaTests.swift */; };
+		F87F86AA2601FAB1007B82D4 /* Wahat_ALShifaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F87F86A92601FAB1007B82D4 /* Wahat_ALShifaUITests.swift */; };
+		F88C225F261CDC8C00E35390 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = F88C2261261CDC8C00E35390 /* Localizable.strings */; };
+		F890D6A6261B5B3E005E390C /* BookingDatePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = F890D6A5261B5B3E005E390C /* BookingDatePage.swift */; };
+		F8A1F94C2605693F00B6A884 /* Register_page.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8A1F94B2605693F00B6A884 /* Register_page.swift */; };
+		F8AEA3562608C9E600EC1C4C /* SelectionPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8AEA3552608C9E600EC1C4C /* SelectionPage.swift */; };
+		F8D9FD5D26149BC20095D303 /* SocialMediaPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8D9FD5C26149BC20095D303 /* SocialMediaPage.swift */; };
+		F8EB9084261AF4A5005D42DA /* MapPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8EB9083261AF4A5005D42DA /* MapPage.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		F87F869B2601FAB1007B82D4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F87F86812601FAAE007B82D4 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F87F86882601FAAE007B82D4;
+			remoteInfo = Wahat_ALShifa;
+		};
+		F87F86A62601FAB1007B82D4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F87F86812601FAAE007B82D4 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F87F86882601FAAE007B82D4;
+			remoteInfo = Wahat_ALShifa;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		F80D104C261DF46E00018185 /* MembershipPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MembershipPage.swift; sourceTree = "<group>"; };
+		F838CB40260A086F00C3F736 /* ListPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListPage.swift; sourceTree = "<group>"; };
+		F838CB8A260B6E9700C3F736 /* WebsitePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebsitePage.swift; sourceTree = "<group>"; };
+		F838CB8F260B717F00C3F736 /* SpecialityClinicsPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpecialityClinicsPage.swift; sourceTree = "<group>"; };
+		F84AA799260CC79B000DB96C /* SuggestionsAndComplains_Page.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuggestionsAndComplains_Page.swift; sourceTree = "<group>"; };
+		F854069C2621C14700A987E2 /* FirstPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstPage.swift; sourceTree = "<group>"; };
+		F8540D7926212B9B002E265D /* LocationPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationPage.swift; sourceTree = "<group>"; };
+		F8711DB62608066D00F95065 /* Verification_page.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Verification_page.swift; sourceTree = "<group>"; };
+		F871F8D626113A88002274F4 /* test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test.swift; sourceTree = "<group>"; };
+		F87F86892601FAAE007B82D4 /* Wahat_ALShifa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Wahat_ALShifa.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F87F868C2601FAAE007B82D4 /* Wahat_ALShifaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Wahat_ALShifaApp.swift; sourceTree = "<group>"; };
+		F87F868E2601FAAE007B82D4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		F87F86902601FAB1007B82D4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F87F86932601FAB1007B82D4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F87F86952601FAB1007B82D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F87F869A2601FAB1007B82D4 /* Wahat_ALShifaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Wahat_ALShifaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F87F869E2601FAB1007B82D4 /* Wahat_ALShifaTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Wahat_ALShifaTests.swift; sourceTree = "<group>"; };
+		F87F86A02601FAB1007B82D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F87F86A52601FAB1007B82D4 /* Wahat_ALShifaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Wahat_ALShifaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F87F86A92601FAB1007B82D4 /* Wahat_ALShifaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Wahat_ALShifaUITests.swift; sourceTree = "<group>"; };
+		F87F86AB2601FAB1007B82D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F88C2260261CDC8C00E35390 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		F88C2262261CDD9600E35390 /* ar-SY */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "ar-SY"; path = "ar-SY.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		F890D6A5261B5B3E005E390C /* BookingDatePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookingDatePage.swift; sourceTree = "<group>"; };
+		F8A1F94B2605693F00B6A884 /* Register_page.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Register_page.swift; sourceTree = "<group>"; };
+		F8AEA3552608C9E600EC1C4C /* SelectionPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectionPage.swift; sourceTree = "<group>"; };
+		F8D9FD5C26149BC20095D303 /* SocialMediaPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SocialMediaPage.swift; sourceTree = "<group>"; };
+		F8EB9083261AF4A5005D42DA /* MapPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapPage.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F87F86862601FAAE007B82D4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F87F86972601FAB1007B82D4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F87F86A22601FAB1007B82D4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F87F86802601FAAE007B82D4 = {
+			isa = PBXGroup;
+			children = (
+				F87F868B2601FAAE007B82D4 /* Wahat_ALShifa */,
+				F87F869D2601FAB1007B82D4 /* Wahat_ALShifaTests */,
+				F87F86A82601FAB1007B82D4 /* Wahat_ALShifaUITests */,
+				F87F868A2601FAAE007B82D4 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F87F868A2601FAAE007B82D4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F87F86892601FAAE007B82D4 /* Wahat_ALShifa.app */,
+				F87F869A2601FAB1007B82D4 /* Wahat_ALShifaTests.xctest */,
+				F87F86A52601FAB1007B82D4 /* Wahat_ALShifaUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F87F868B2601FAAE007B82D4 /* Wahat_ALShifa */ = {
+			isa = PBXGroup;
+			children = (
+				F87F868C2601FAAE007B82D4 /* Wahat_ALShifaApp.swift */,
+				F854069C2621C14700A987E2 /* FirstPage.swift */,
+				F87F868E2601FAAE007B82D4 /* ContentView.swift */,
+				F8A1F94B2605693F00B6A884 /* Register_page.swift */,
+				F8711DB62608066D00F95065 /* Verification_page.swift */,
+				F8AEA3552608C9E600EC1C4C /* SelectionPage.swift */,
+				F838CB40260A086F00C3F736 /* ListPage.swift */,
+				F838CB8F260B717F00C3F736 /* SpecialityClinicsPage.swift */,
+				F8D9FD5C26149BC20095D303 /* SocialMediaPage.swift */,
+				F871F8D626113A88002274F4 /* test.swift */,
+				F8540D7926212B9B002E265D /* LocationPage.swift */,
+				F84AA799260CC79B000DB96C /* SuggestionsAndComplains_Page.swift */,
+				F838CB8A260B6E9700C3F736 /* WebsitePage.swift */,
+				F8EB9083261AF4A5005D42DA /* MapPage.swift */,
+				F890D6A5261B5B3E005E390C /* BookingDatePage.swift */,
+				F80D104C261DF46E00018185 /* MembershipPage.swift */,
+				F88C2261261CDC8C00E35390 /* Localizable.strings */,
+				F87F86902601FAB1007B82D4 /* Assets.xcassets */,
+				F87F86952601FAB1007B82D4 /* Info.plist */,
+				F87F86922601FAB1007B82D4 /* Preview Content */,
+			);
+			path = Wahat_ALShifa;
+			sourceTree = "<group>";
+		};
+		F87F86922601FAB1007B82D4 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				F87F86932601FAB1007B82D4 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		F87F869D2601FAB1007B82D4 /* Wahat_ALShifaTests */ = {
+			isa = PBXGroup;
+			children = (
+				F87F869E2601FAB1007B82D4 /* Wahat_ALShifaTests.swift */,
+				F87F86A02601FAB1007B82D4 /* Info.plist */,
+			);
+			path = Wahat_ALShifaTests;
+			sourceTree = "<group>";
+		};
+		F87F86A82601FAB1007B82D4 /* Wahat_ALShifaUITests */ = {
+			isa = PBXGroup;
+			children = (
+				F87F86A92601FAB1007B82D4 /* Wahat_ALShifaUITests.swift */,
+				F87F86AB2601FAB1007B82D4 /* Info.plist */,
+			);
+			path = Wahat_ALShifaUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F87F86882601FAAE007B82D4 /* Wahat_ALShifa */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F87F86AE2601FAB1007B82D4 /* Build configuration list for PBXNativeTarget "Wahat_ALShifa" */;
+			buildPhases = (
+				F87F86852601FAAE007B82D4 /* Sources */,
+				F87F86862601FAAE007B82D4 /* Frameworks */,
+				F87F86872601FAAE007B82D4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Wahat_ALShifa;
+			productName = Wahat_ALShifa;
+			productReference = F87F86892601FAAE007B82D4 /* Wahat_ALShifa.app */;
+			productType = "com.apple.product-type.application";
+		};
+		F87F86992601FAB1007B82D4 /* Wahat_ALShifaTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F87F86B12601FAB1007B82D4 /* Build configuration list for PBXNativeTarget "Wahat_ALShifaTests" */;
+			buildPhases = (
+				F87F86962601FAB1007B82D4 /* Sources */,
+				F87F86972601FAB1007B82D4 /* Frameworks */,
+				F87F86982601FAB1007B82D4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F87F869C2601FAB1007B82D4 /* PBXTargetDependency */,
+			);
+			name = Wahat_ALShifaTests;
+			productName = Wahat_ALShifaTests;
+			productReference = F87F869A2601FAB1007B82D4 /* Wahat_ALShifaTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		F87F86A42601FAB1007B82D4 /* Wahat_ALShifaUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F87F86B42601FAB1007B82D4 /* Build configuration list for PBXNativeTarget "Wahat_ALShifaUITests" */;
+			buildPhases = (
+				F87F86A12601FAB1007B82D4 /* Sources */,
+				F87F86A22601FAB1007B82D4 /* Frameworks */,
+				F87F86A32601FAB1007B82D4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F87F86A72601FAB1007B82D4 /* PBXTargetDependency */,
+			);
+			name = Wahat_ALShifaUITests;
+			productName = Wahat_ALShifaUITests;
+			productReference = F87F86A52601FAB1007B82D4 /* Wahat_ALShifaUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F87F86812601FAAE007B82D4 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1240;
+				LastUpgradeCheck = 1240;
+				TargetAttributes = {
+					F87F86882601FAAE007B82D4 = {
+						CreatedOnToolsVersion = 12.4;
+					};
+					F87F86992601FAB1007B82D4 = {
+						CreatedOnToolsVersion = 12.4;
+						TestTargetID = F87F86882601FAAE007B82D4;
+					};
+					F87F86A42601FAB1007B82D4 = {
+						CreatedOnToolsVersion = 12.4;
+						TestTargetID = F87F86882601FAAE007B82D4;
+					};
+				};
+			};
+			buildConfigurationList = F87F86842601FAAE007B82D4 /* Build configuration list for PBXProject "Wahat_ALShifa" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+				"ar-SY",
+			);
+			mainGroup = F87F86802601FAAE007B82D4;
+			productRefGroup = F87F868A2601FAAE007B82D4 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F87F86882601FAAE007B82D4 /* Wahat_ALShifa */,
+				F87F86992601FAB1007B82D4 /* Wahat_ALShifaTests */,
+				F87F86A42601FAB1007B82D4 /* Wahat_ALShifaUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F87F86872601FAAE007B82D4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F88C225F261CDC8C00E35390 /* Localizable.strings in Resources */,
+				F87F86942601FAB1007B82D4 /* Preview Assets.xcassets in Resources */,
+				F87F86912601FAB1007B82D4 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F87F86982601FAB1007B82D4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F87F86A32601FAB1007B82D4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F87F86852601FAAE007B82D4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F84AA79A260CC79B000DB96C /* SuggestionsAndComplains_Page.swift in Sources */,
+				F8540D7A26212B9B002E265D /* LocationPage.swift in Sources */,
+				F838CB41260A086F00C3F736 /* ListPage.swift in Sources */,
+				F8AEA3562608C9E600EC1C4C /* SelectionPage.swift in Sources */,
+				F8EB9084261AF4A5005D42DA /* MapPage.swift in Sources */,
+				F871F8D726113A88002274F4 /* test.swift in Sources */,
+				F87F868F2601FAAE007B82D4 /* ContentView.swift in Sources */,
+				F8711DB72608066D00F95065 /* Verification_page.swift in Sources */,
+				F8A1F94C2605693F00B6A884 /* Register_page.swift in Sources */,
+				F87F868D2601FAAE007B82D4 /* Wahat_ALShifaApp.swift in Sources */,
+				F8D9FD5D26149BC20095D303 /* SocialMediaPage.swift in Sources */,
+				F80D104D261DF46E00018185 /* MembershipPage.swift in Sources */,
+				F838CB8B260B6E9700C3F736 /* WebsitePage.swift in Sources */,
+				F890D6A6261B5B3E005E390C /* BookingDatePage.swift in Sources */,
+				F838CB90260B717F00C3F736 /* SpecialityClinicsPage.swift in Sources */,
+				F854069D2621C14700A987E2 /* FirstPage.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F87F86962601FAB1007B82D4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F87F869F2601FAB1007B82D4 /* Wahat_ALShifaTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F87F86A12601FAB1007B82D4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F87F86AA2601FAB1007B82D4 /* Wahat_ALShifaUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		F87F869C2601FAB1007B82D4 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F87F86882601FAAE007B82D4 /* Wahat_ALShifa */;
+			targetProxy = F87F869B2601FAB1007B82D4 /* PBXContainerItemProxy */;
+		};
+		F87F86A72601FAB1007B82D4 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F87F86882601FAAE007B82D4 /* Wahat_ALShifa */;
+			targetProxy = F87F86A62601FAB1007B82D4 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		F88C2261261CDC8C00E35390 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F88C2260261CDC8C00E35390 /* en */,
+				F88C2262261CDD9600E35390 /* ar-SY */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		F87F86AC2601FAB1007B82D4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		F87F86AD2601FAB1007B82D4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		F87F86AF2601FAB1007B82D4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "\"Wahat_ALShifa/Preview Content\"";
+				DEVELOPMENT_TEAM = U2ZJZ64P9R;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = Wahat_ALShifa/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.maram.net.Wahat-ALShifa";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		F87F86B02601FAB1007B82D4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "\"Wahat_ALShifa/Preview Content\"";
+				DEVELOPMENT_TEAM = U2ZJZ64P9R;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = Wahat_ALShifa/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.maram.net.Wahat-ALShifa";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		F87F86B22601FAB1007B82D4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = Wahat_ALShifaTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.maram.net.Wahat-ALShifaTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Wahat_ALShifa.app/Wahat_ALShifa";
+			};
+			name = Debug;
+		};
+		F87F86B32601FAB1007B82D4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = Wahat_ALShifaTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.maram.net.Wahat-ALShifaTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Wahat_ALShifa.app/Wahat_ALShifa";
+			};
+			name = Release;
+		};
+		F87F86B52601FAB1007B82D4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = Wahat_ALShifaUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.maram.net.Wahat-ALShifaUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Wahat_ALShifa;
+			};
+			name = Debug;
+		};
+		F87F86B62601FAB1007B82D4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = Wahat_ALShifaUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.maram.net.Wahat-ALShifaUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Wahat_ALShifa;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F87F86842601FAAE007B82D4 /* Build configuration list for PBXProject "Wahat_ALShifa" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F87F86AC2601FAB1007B82D4 /* Debug */,
+				F87F86AD2601FAB1007B82D4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F87F86AE2601FAB1007B82D4 /* Build configuration list for PBXNativeTarget "Wahat_ALShifa" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F87F86AF2601FAB1007B82D4 /* Debug */,
+				F87F86B02601FAB1007B82D4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F87F86B12601FAB1007B82D4 /* Build configuration list for PBXNativeTarget "Wahat_ALShifaTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F87F86B22601FAB1007B82D4 /* Debug */,
+				F87F86B32601FAB1007B82D4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F87F86B42601FAB1007B82D4 /* Build configuration list for PBXNativeTarget "Wahat_ALShifaUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F87F86B52601FAB1007B82D4 /* Debug */,
+				F87F86B62601FAB1007B82D4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F87F86812601FAAE007B82D4 /* Project object */;
+}

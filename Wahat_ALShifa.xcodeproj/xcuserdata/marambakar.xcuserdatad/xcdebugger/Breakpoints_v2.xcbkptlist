@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "106A06F2-CC69-4CF5-A497-1B34C979ED47"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1379991-5789-4CEE-A850-CF8E01440F23"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Wahat_ALShifa/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E154B2E-303E-4598-9E23-BC50DC1663BC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Wahat_ALShifa/SelectionPage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F276CE3A-B556-4663-BAF8-9D216F41D1F1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Wahat_ALShifa/Wahat_ALShifaApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "Wahat_ALShifaApp"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2FA11EA2-ABB2-4CAF-8833-2EB4BFD7D1E2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Wahat_ALShifa/Wahat_ALShifaApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "Wahat_ALShifaApp"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "2FA11EA2-ABB2-4CAF-8833-2EB4BFD7D1E2 - 6179109dddcb4946"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of Wahat_ALShifa.Wahat_ALShifaApp.(rating in _770DC74DA71B7F8BEDEDE6C2D3321641) : Swift.Int"
+                  moduleName = "Wahat_ALShifa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marambakar/Desktop/Wahat_ALShifa/Wahat_ALShifa/Wahat_ALShifaApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "2FA11EA2-ABB2-4CAF-8833-2EB4BFD7D1E2 - 2a258520834ff4cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Wahat_ALShifa.Wahat_ALShifaApp.init() -&gt; Wahat_ALShifa.Wahat_ALShifaApp"
+                  moduleName = "Wahat_ALShifa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marambakar/Desktop/Wahat_ALShifa/Wahat_ALShifa/Wahat_ALShifaApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "67">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DCE067CD-E537-449D-9D15-A20419D217BD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Wahat_ALShifa/Wahat_ALShifaApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "6"
+            endingLineNumber = "6"
+            landmarkName = "Wahat_ALShifaApp"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "DCE067CD-E537-449D-9D15-A20419D217BD - 4ec310c8878e608"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of Wahat_ALShifa.Wahat_ALShifaApp.(showPopUp in _770DC74DA71B7F8BEDEDE6C2D3321641) : Swift.Bool"
+                  moduleName = "Wahat_ALShifa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marambakar/Desktop/Wahat_ALShifa/Wahat_ALShifa/Wahat_ALShifaApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "DCE067CD-E537-449D-9D15-A20419D217BD - 2a258520834ff4ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Wahat_ALShifa.Wahat_ALShifaApp.init() -&gt; Wahat_ALShifa.Wahat_ALShifaApp"
+                  moduleName = "Wahat_ALShifa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marambakar/Desktop/Wahat_ALShifa/Wahat_ALShifa/Wahat_ALShifaApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "21">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8A5D2E93-E723-4342-ACB1-DC5CE60FA35C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Wahat_ALShifa/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AF80DF68-75E6-40B9-B6D3-309EB824F2A7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Wahat_ALShifa/MembershipPage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "AF80DF68-75E6-40B9-B6D3-309EB824F2A7 - 55f67834a375da93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Wahat_ALShifa.MembershipPage.body.getter : some"
+                  moduleName = "Wahat_ALShifa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marambakar/Desktop/Wahat_ALShifa/Wahat_ALShifa/MembershipPage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "5"
+                  endingLineNumber = "5"
+                  offsetFromSymbolStart = "22">
+               </Location>
+               <Location
+                  uuid = "AF80DF68-75E6-40B9-B6D3-309EB824F2A7 - 98457b9f2eb419ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SwiftUI.GeometryProxy) -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.Text, SwiftUI.Text, &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.overlay&lt;A where A1: SwiftUI.View&gt;(_: A1, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0)&gt;&gt; in Wahat_ALShifa.MembershipPage.body.getter : some"
+                  moduleName = "Wahat_ALShifa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marambakar/Desktop/Wahat_ALShifa/Wahat_ALShifa/MembershipPage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "146">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
